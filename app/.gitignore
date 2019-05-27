@@ -1,0 +1,6 @@
+/build
+
+/build/
+/src/main/assets/ensemble_inception_vgg19.tflite
+/src/main/assets/ensemble_model.tflite
+/src/main/assets/ensemble_model4.tflite

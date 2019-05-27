@@ -1,0 +1,198 @@
+Peltoherkkusieni ++
+Upeaherkkusieni ++
+Puistoherkkusieni ++
+Nurmiherkkusieni ++
+Kuusenherkkusieni ++
+Tapionherkkusieni ++
+Kuusiherkkusieni ++
+Kesäpiennarsieni ++
+Typäskääpä ++
+Lampaankääpä ++
+Oranssikärpässieni ++
+Ruostekärpässieni ++
+Punakärpässieni --
+Kavalakärpässieni --
+Kangaskärpässieni --
+Ruskokärpässieni --
+Rusokärpässieni --
+Harmaakärpässieni --
+Valkokärpässieni --
+Nuijamalikka ++
+Pohjanmesisieni ++
+Nuijamesisieni ++
+Herkkutatti ++
+Männynherkkutatti ++
+Tammenherkkutatti ++
+Nurmimaamuna ++
+Keltasarvikka
+Kevätkaunolakki ++
+Keltavahvero ++
+Äikätatti
+Akansieni ++
+Rusakkonuljaska ++
+Pikkunuijakas
+Kierrenuijakas
+Suppilomalikka ++
+Härmämalikka ++
+Vihertuoksumalikka ++
+Isojuurekas
+Jauhosieni ++
+Harmaamustesieni --
+Suomumustesieni ++
+Punavyöseitikki ++
+Kehnäsieni ++
+Kangaslimaseitikki
+Nummilimaseitikki
+Suippumyrkkyseitikki --
+Veriseitikki --
+Verihelttaseitikki --
+Haisuseitikki
+Monivyöseitikki ++
+Violettiseitikki
+Mustatorvisieni ++
+Kosteikkovahvero ++
+Suppilovahvero ++
+Niittyvahakas ++
+Laakakorvasieni ++
+Leppähelokka ++
+Isohietalakki
+Talvijuurekas ++
+Myrkkynääpikkä --
+Ripsimaatähti
+Limanuljaska ++
+Punanuljaska ++
+Jouhinahikas
+Tupasjuurekas
+Kalpeajuurekas ++
+Korvasieni ++
+Lehtokorvasieni ++
+Vaaleaorakas ++
+Rusko-orakas ++
+Keltavahakas
+Punikkivahakas ++
+Valevahvero ++
+Tuoksuvahakas ++
+Mustavahakas ++
+Rusotäplävahakas
+Hallavahakas ++
+Keltahelttavahakas ++
+Harmaakirjovahakas ++
+Kuusilahokka ++
+Kitkerälahokka --
+Punalahokka
+Ruskotatti ++
+Valkorisakas --
+Polkurisakas --
+Suippurisakas --
+Koivunkantosieni ++
+Vesikehärousku ++
+Oranssirousku ++
+Sikurirousku ++
+Männynleppärousku ++
+Kuusenleppärousku ++
+Vyöleppärousku ++
+Nurmirousku ++
+Savurousku ++
+Viitapalsamirousku ++
+Lakritsirousku --
+Nokirousku ++
+Punarousku ++
+Kangaspalsamirousku ++
+Tammenrousku ++
+Keltarousku ++
+Kangasrousku ++
+Isovoirousku ++
+Suomurousku
+Pikkurousku ++
+Karvarousku ++
+Haaparousku ++
+Mustarousku
+Korpirousku ++
+Harmaarousku ++
+Lehtorousku
+Kultarousku ++
+Jättikuukunen ++
+Haavanpunikkitatti ++
+Valkolehmäntatti ++
+Kalvaspunikkitatti ++
+Kuusenpunikkitatti ++
+Lehtopunikkitatti ++
+Tammenpunikkitatti ++
+Lehmäntatti ++
+Nokitatti ++
+Koivunpunikkitatti ++
+Männynpunikkitatti ++
+Rustonupikka
+Puistoukonsieni
+Sinivalmuska ++
+Orvokkivalmuska ++
+Nurmitupaskynsikäs
+Poimunapalakki
+Nuijakuukunen ++
+Känsätuhkelo ++
+Ryhmätuhkelo ++
+Ukonsieni ++
+Kuusenneulasnahikas
+Nurminahikas ++
+Keltanupikka
+Kartiohuhtasieni ++
+Pallohuhtasieni ++
+Puistopökkösieni
+Keltajalkahiippo
+Poimuhiippo
+Verihiippo
+Laukkanahikas ++
+Pulkkosieni --
+Kultasieni --
+Pörhösuomuhelokka
+Keltavinokas
+Osterivinokas ++
+Koivuvinokas ++
+Koivulahorusokas
+Orahytykkä
+Tuhtihaarakas ++
+Kuusihaarakas
+Keltahaarakas ++
+Valkoviirujuurekas ++
+Savuhapero
+Koivuhapero ++
+Keltahapero ++
+Kyyhkyhapero ++
+Kangashapero ++
+Tulipunahapero
+Haisuhapero
+Koivunlehtohapero ++
+Munahapero ++
+Isohapero ++
+Punajalkahapero ++
+Palterohapero ++
+Viinihapero ++
+Sillihapero ++
+Kuusensuomuorakas
+Sinijalkaorakas
+Männynsuomuorakas ++
+Talvivinokas
+Punamaljakas
+Tarhamukulakuukunen --
+Kuusenkäpynahikas ++
+Männynkäpynahikas ++
+Viherkaulussieni
+Nummitatti ++
+Jyvästatti ++
+Lehtikuusentatti ++
+Voitatti ++
+Kangastatti ++
+Samettijalka
+Kangaskeltavalmuska --
+Lehtokeltavalmuska ++
+Täplähelttavalmuska
+Tuoksuvalmuska ++
+Pisamavalmuska --
+Viiruvalmuska ++
+Retikkavalmuska
+Sappivalmuska
+Lahovalmuska
+Purppuravalmuska
+Sappitatti
+Samettitatti ++
+Kantonapanahikas

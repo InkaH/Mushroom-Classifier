@@ -1,0 +1,17 @@
+Albatrellus ovinus --
+Boletus edulis --
+Cantharellus cibarius ++
+Craterellus cornucopioides ++
+Gyromitra esculenta ++
+Hydnum repandum --
+Lactarius deliciosus
+Lactarius rufus
+Lactarius torminosus ++
+Lactarius trivialis
+Leccinum versipelle
+Russula claroflava --
+Russula decolorans
+Russula paludosa ++
+Russula vinosa --
+Suillus luteus ++
+Suillus variegatus ++
